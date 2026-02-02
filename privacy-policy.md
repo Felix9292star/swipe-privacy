@@ -1,3 +1,5 @@
+Privacy Policy for Swipe
+
 Effective Date: February 2, 2026
 Swipe (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 Information We Collect
@@ -16,7 +18,24 @@ Swipe may use third-party services to operate the app, including Firebase and Go
 Your Choices
 You can update or delete your profile information anytime in the app.
 You can disable location sharing at any time via your device settings.
+Children’s Privacy
 Swipe is not intended for children under 18. We do not knowingly collect personal information from children.
+
+Delete Account Instructions
+
+If you want to delete your Swipe account, please contact us at:
+Email: felixbaah182@gmail.com
+
+When you request account deletion, we will:
+Delete your profile information (name, photo, bio)
+Delete your messages and chat history
+Remove your account from the app
+Data retained:
+Anonymous analytics or aggregated usage data may be retained for app improvement.
+No personal information is kept after deletion.
+To request deletion, send an email with your account email or username and your request. We will process it as soon as possible.
+URL for deletion instructions:
+https://felix9292star.github.io/swipe-privacy/#delete-account
 
 Contact Us
 
